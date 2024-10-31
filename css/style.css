@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  transition: 0.3s;
+}
+:root {
+  --primary: #3cb815;
+  --dark: #111111;
+}
+.py-6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.my-6 {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
